@@ -167,7 +167,7 @@ async def start_yukki():
             await  wdk.start()
             await wdk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
             await wdk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
-            await wdk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS "))
+            await wdk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
             await wdk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
             botme = await wdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -194,7 +194,7 @@ async def start_yukki():
             await hdk.start()
             await hdk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
             await hdk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
-            await hdk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS "))
+            await hdk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
             await hdk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
             botme = await hdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -221,7 +221,7 @@ async def start_yukki():
             await sdk.start()
             await sdk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
             await sdk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
-            await sdk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS "))
+            await sdk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
             await sdk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
             botme = await sdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -248,7 +248,7 @@ async def start_yukki():
             await adk.start()
             await adk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
             await adk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
-            await adk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS "))
+            await adk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
             await adk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
             botme = await adk.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -275,7 +275,7 @@ async def start_yukki():
             await bdk.start()
             await bdk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
             await bdk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
-            await bdk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS "))
+            await bdk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
             await bdk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
             botme = await bdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -303,7 +303,7 @@ async def start_yukki():
             await cdk.start()
             await cdk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
             await cdk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
-            await cdk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS "))
+            await cdk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
             await cdk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
             botme = await cdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -330,7 +330,7 @@ async def start_yukki():
             await ddk.start()
             await ddk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
             await ddk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
-            await ddk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS "))
+            await ddk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
             await ddk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
             botme = await ddk.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -358,7 +358,7 @@ async def start_yukki():
             await edk.start()
             await edk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
             await edk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
-            await edk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS "))
+            await edk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
             await edk(functions.channels.JoinChannelRequest(channel=" @BAPJI_SPAMMERS"))
             botme = await edk.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -1483,7 +1483,7 @@ async def restart(e):
 
 async def help(e):
     if e.sender_id in SMEX_USERS:
-       text = " ⚔ 𝐋𝐔𝐂𝐈𝐅𝐄𝐑 𝐒𝐏𝐀𝐌𝐁𝐎𝐓 ⚔\n\n✘ 𝐔𝐓𝐈𝐋𝐒 ✘:\n.ping\n.restart\n\n✘ 𝐔𝐒𝐄𝐑 𝐁𝐎𝐓 ✘:\n.bio\n.join\n.pjoin\n.pleave\n\n✘ 𝐒𝐏𝐀𝐌 ✘:\n.spam\n.delayspam\n.bigspam\n.raid\n.replyraid\n.dreplyraid\n [ MADARCHOD ]"
+       text = " ⚔ 𝐁𝐀𝐏𝐉𝐈 𝐒𝐏𝐀𝐌𝐁𝐎𝐓 ⚔\n\n✘ 𝐔𝐓𝐈𝐋𝐒 ✘:\n.ping\n.restart\n\n✘ 𝐔𝐒𝐄𝐑 𝐁𝐎𝐓 ✘:\n.bio\n.join\n.pjoin\n.pleave\n\n✘ 𝐒𝐏𝐀𝐌 ✘:\n.spam\n.delayspam\n.bigspam\n.raid\n.replyraid\n.dreplyraid\n [ MADARCHOD ]"
        await e.reply(text, parse_mode=None, link_preview=None )
 
         
